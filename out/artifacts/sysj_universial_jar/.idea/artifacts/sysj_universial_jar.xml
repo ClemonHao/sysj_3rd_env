@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sysj_universial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sysj_universial_jar</output-path>
+    <root id="archive" name="sysj_universial.jar">
+      <element id="module-output" name="sysj_universial" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20240303.jar" path-in-jar="/" />
+      <element id="library" level="project" name="java" />
+    </root>
+  </artifact>
+</component>
